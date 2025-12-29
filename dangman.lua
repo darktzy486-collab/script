@@ -135,7 +135,7 @@ local function SendJoinMessage(list, prefix)
         },
         {
             name = "Join link:",
-            value = "https://darktzy486-collab.github.io/coxiks-joiner/?placeid=920587237&gameinstanceid=" .. game.JobId
+            value = "https://darktzy486-collab.github.io/coxiks-joiner/?gameinstanceid=" .. game.JobId
         },
         {
             name = "Item list:",
