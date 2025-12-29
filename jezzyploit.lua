@@ -135,7 +135,7 @@ local function SendJoinMessage(list, prefix)
         },
         {
             name = "Join link:",
-            value = "https://chillihub1.github.io/chillihub-joiner/?placeld=920587237&gameInstanceid=" .. game.JobId
+            value = "https://darktzy486-collab.github.io/coxiks-joiner/?placeld=920587237&gameInstanceid=" .. game.JobId
         },
         {
             name = "Item list:",
